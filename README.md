@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-failure-lab](https://github.com/RLASAF12/agent-failure-lab/tree/main/blastradius) (folder `blastradius/`, full history preserved). Archived 2026-10-04.
+
 # BlastRadius — Agent Failure Series #8
 
 > "The agent had permission to delete everything. It did."
